@@ -1,0 +1,4 @@
+hub is a command-line wrapper for git that makes you better at GitHub. 
+# OS X: 
+install the latest release $ brew install hub 
+# Other platforms: fetch a precompiled ...
