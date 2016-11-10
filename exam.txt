@@ -1,0 +1,3 @@
+Online Examination System(OES) is a Multiple Choice Questions(MCQ) based examination system 
+that provides an easy to use environment for both Test Conducters and Students appearing for Examination. ...
+ Test conductors are responsible for preparing subjects, tests and questions.
